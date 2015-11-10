@@ -1,6 +1,6 @@
 # MSTagTextView
 
-[![CI Status](http://img.shields.io/travis/nickmm/MSTagTextView.svg?style=flat)](https://travis-ci.org/meseems/MSTagTextView)
+[![CI Status](http://img.shields.io/travis/ezefranca/MSTagTextView.svg?style=flat)](https://travis-ci.org/ezefranca/MSTagTextView)
 [![Version](https://img.shields.io/cocoapods/v/MSTagTextView.svg?style=flat)](http://cocoapods.org/pods/MSTagTextView)
 [![License](https://img.shields.io/cocoapods/l/MSTagTextView.svg?style=flat)](http://cocoapods.org/pods/MSTagTextView)
 [![Platform](https://img.shields.io/cocoapods/p/MSTagTextView.svg?style=flat)](http://cocoapods.org/pods/MSTagTextView)
